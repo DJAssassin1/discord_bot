@@ -1,0 +1,23 @@
+**Memes generator**([imgflip](https://imgflip.com/))
+  !list_memes <x> - *gives a list of x meme templates, where x is max 50*
+  !make_meme <template id> <top text> <bottom text> - *makes a meme from a template*
+
+**Reddit API**([praw](https://praw.readthedocs.io/en/stable/index.html))
+  for users:
+  !meme <subreddit> [<n>] - sends n uplouds from subreddit
+
+  for channels:
+  !subs - sends your subscriptions for this channel
+  !sub <subreddit> [<channel>]
+  !unsub <subreddit> [<channel>]
+
+**Music bot**
+  !p[lay] <yt_link> - adds a song to the queue
+  !q[ueue] - sends queue of songs
+  !s[kip] - skips song
+  !l[eave] - leave voice chat
+  !stop - stops music
+  !resume - starts playing if its stoped
+
+**Special**
+  !dt - creates a thread with that days date
