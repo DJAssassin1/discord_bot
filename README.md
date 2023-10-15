@@ -62,6 +62,7 @@ I created this functions especially for my personal use.
 
 create account on Discord, Reddit and imgflip. Create bot on https://discord.com/developers. Download the libraries. Clone this project. Create file in it named a.env and fill it with this:
 
+```
 DISCORD_TOKEN=token for your bot
 GENUSERNAME=imgflip
 GENPASSWORD=imgflip
@@ -71,3 +72,4 @@ MUSERNAME=username for reddit
 MPASSWORD=password for reddit
 DISCORD_ADMIN_ID=your id
 CRON_ID=second bot id
+```
